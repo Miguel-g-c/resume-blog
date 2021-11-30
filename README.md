@@ -74,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - [ ] Create post page.
 - [ ] Use [react-markdown](https://github.com/remarkjs/react-markdown) and check this [example](https://remarkjs.github.io/react-markdown/#html-in-markdown)
+- [ ] Code blocks: [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter}
+- [ ] Example repo: https://github.com/colinhacks/devii
+- [ ] 
