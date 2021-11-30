@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## TODO
+
+- [ ] Create post page.
+- [ ] Use [react-markdown](https://github.com/remarkjs/react-markdown) and check this [example](https://remarkjs.github.io/react-markdown/#html-in-markdown)
